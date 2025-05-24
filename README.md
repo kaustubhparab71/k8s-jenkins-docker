@@ -1,6 +1,6 @@
 # k8s-jenkins-docker
 -Azure VM created 
-![image](https://github.com/user-attachments/assets/f772983c-b59e-4348-b867-9f37b626a340)
+![image](https://github.com/user-attachments/assets/f8f68811-03a6-4704-b252-2ad1a02ee951)
 
 -VM nsg rules for k8s , jenkins , docker
 ![image](https://github.com/user-attachments/assets/b1158b4a-75a8-43a6-b460-d0e48c148d87)
